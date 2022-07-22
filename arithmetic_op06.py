@@ -10,6 +10,6 @@
 
 number = 4
 number = number / 2
-answer = number
+answer = number - int(number)
 print(answer)
 print(number)
