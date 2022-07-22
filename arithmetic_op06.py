@@ -9,7 +9,7 @@
 #Print the number.
 
 number = 4
-number /= 2
+number = number / 2
 answer = number
 print(answer)
 print(number)
