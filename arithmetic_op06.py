@@ -7,3 +7,8 @@
 #Print the answer.
  
 #Print the number.
+
+number = 4
+number /= 2
+answer = number
+print(answer)
